@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/Chart3D_Lesson1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart3D_Lesson1/MainWindow.xaml))**
+<!-- default file list end -->
 # Chart3D Getting Started Lesson 1
 
 
