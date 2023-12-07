@@ -8,11 +8,12 @@
 
 * **[MainWindow.xaml](./CS/Chart3D_Lesson1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart3D_Lesson1/MainWindow.xaml))**
 <!-- default file list end -->
-# Chart3D Getting Started Lesson 1
+# Chart for WPF - Create a Simple Unbound 3D Chart
 
+This example shows how to design a simple 3D chart, populate it with data, and configure common chart settings.
 
-This example contains the finished project from Chart3DControl <a href="https://documentation.devexpress.com/WPF/117575/Controls-and-Libraries/Charts-Suite/Chart3D-Control/Getting-Started/Lesson-1-Create-a-Simple-Unbound-3D-Chart">Getting Started Lesson 1</a>.
+## Documentation 
 
-<br/>
+* [Lesson 1 - Create a Simple Unbound 3D Chart](https://docs.devexpress.com/WPF/117575/controls-and-libraries/charts-suite/chart3d-control/getting-started/lesson-1-create-a-simple-unbound-3d-chart)
 
 
