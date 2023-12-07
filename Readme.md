@@ -3,14 +3,16 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T465540)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* **[MainWindow.xaml](./CS/Chart3D_Lesson1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart3D_Lesson1/MainWindow.xaml))**
-<!-- default file list end -->
 # Chart for WPF - Create a Simple Unbound 3D Chart
 
 This example shows how to design a simple 3D chart, populate it with data, and configure common chart settings.
+
+![Chart](./images/chart.png)
+
+## Files to Review
+
+* **[MainWindow.xaml](./CS/Chart3D_Lesson1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart3D_Lesson1/MainWindow.xaml))**
 
 ## Documentation 
 
